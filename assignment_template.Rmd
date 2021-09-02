@@ -44,7 +44,7 @@ Here are some sample references. *Reference in brackets as in a list.* Please se
 
 # Methodology.
 
-An equation with a label for cross-referencing:
+An equation with a label for cross-referencing: 
 
 ```{=tex}
 \begin{equation}\label{eq:eq1}

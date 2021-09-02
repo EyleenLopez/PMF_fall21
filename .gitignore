@@ -28,3 +28,4 @@ vignettes/*.pdf
 .Renviron
 *.tex
 assignment_template.tex
+.Rproj.user
